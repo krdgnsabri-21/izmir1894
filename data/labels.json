@@ -1,0 +1,1811 @@
+{
+  "title": "Vilayet de Smyrne (Aïdin) - 1894 (Dijital harita: Sabri Karadoğan)",
+  "cartographer": "Vital Cuinet",
+  "digital_cartographer": "Sabri Karadoğan",
+  "source": "La Turquie d'Asie: géographie administrative, statistique, descriptive et raisonnée de chaque province de l'Asie-Mineure, Tome III, p. 348 (Paris: Ernest Leroux, 1894)",
+  "dimensions": {
+    "width": 3445,
+    "height": 3045,
+    "aspect": 0.8838896952104499
+  },
+  "georeference": {
+    "bounds": [
+      [
+        36.0389,
+        25.3224
+      ],
+      [
+        39.5228,
+        30.3516
+      ]
+    ],
+    "projection": "Mercator WGS84",
+    "center": [
+      37.85,
+      27.85
+    ],
+    "zoom": 8
+  },
+  "statistics": {
+    "population": 1396477,
+    "area_km2": 53000,
+    "sandjaks_count": 5,
+    "cazas_count": 39,
+    "nahies_count": 44,
+    "villages_count": 2822
+  },
+  "sandjaks": [
+    {
+      "id": "Smyrne",
+      "name_fr": "Merkez-Sandjak de Smyrne",
+      "name_tr": "İzmir Merkez Sancağı",
+      "cazas": 11
+    },
+    {
+      "id": "Saroukhan",
+      "name_fr": "Sandjak de Saroukhan",
+      "name_tr": "Saruhan (Manisa) Sancağı",
+      "cazas": 11
+    },
+    {
+      "id": "Aïdin",
+      "name_fr": "Sandjak d'Aïdin",
+      "name_tr": "Aydın Sancağı",
+      "cazas": 5
+    },
+    {
+      "id": "Denisli",
+      "name_fr": "Sandjak de Denisli",
+      "name_tr": "Denizli Sancağı",
+      "cazas": 6
+    },
+    {
+      "id": "Mentéché",
+      "name_fr": "Sandjak de Mentéché",
+      "name_tr": "Menteşe (Muğla) Sancağı",
+      "cazas": 6
+    }
+  ],
+  "labels": [
+    {
+      "id": "cartouche_smyrne",
+      "fr": "STATISTIQUE DU VILAYET DE SMYRNE (1894)",
+      "ota": {
+        "latn": "Aydın Vilâyeti İstatistiği",
+        "arab": "ايزدين ولايتی احصائيه سی"
+      },
+      "modern": "Vilayet İstatistik ve İdari Bölünüş Tablosu",
+      "kind": "other",
+      "sandjak": "Special",
+      "lat": 36.85,
+      "lon": 26.25,
+      "bbox": [
+        0.038,
+        0.68,
+        0.285,
+        0.27
+      ],
+      "lit": {
+        "tr": "İzmir (Aydın) Vilayeti İstatistiği ve İdari Bölünüş Cetveli",
+        "en": "Statistics and Administrative Division of the Smyrne Vilayet",
+        "fr": "Statistique et Division administrative du Vilayet de Smyrne"
+      },
+      "note": {
+        "tr": "Haritanın sol alt köşesinde yer alan resmi vilayet künyesi. Nüfus: 1.396.477 kişi, Yüzölçümü: 53.000 km². Vilayet 5 Sancak, 39 Kaza, 44 Nahiye ve 2822 Köye bölünmüştür.",
+        "en": "Official provincial statistics panel at bottom-left. Population: 1,396,477; Area: 53,000 sq km; divided into 5 Sandjaks, 39 Cazas, 44 Nahies, and 2,822 Villages.",
+        "fr": "Tableau officiel en bas à gauche. Population : 1 396 477 hab. Superficie : 53 000 km², divisé en 5 Sandjaks, 39 Cazas, 44 Nahiès et 2822 Villages."
+      }
+    },
+    {
+      "id": "legende_symboles",
+      "fr": "LÉGENDE DES SIGNES CONVENTIONNELS",
+      "ota": {
+        "latn": "İşâret-i Mahsûsa Cedveli",
+        "arab": "اشارات مخصوصه جدولی"
+      },
+      "modern": "Harita İşaretleri ve Lejant",
+      "kind": "other",
+      "sandjak": "Special",
+      "lat": 38.8,
+      "lon": 26.15,
+      "bbox": [
+        0.038,
+        0.23,
+        0.165,
+        0.19
+      ],
+      "lit": {
+        "tr": "Harita İşaretleri ve İdari Merkez Hiyerarşisi Lejantı",
+        "en": "Legend of Conventional Symbols and Administrative Hierarchy",
+        "fr": "Légende des signes conventionnels"
+      },
+      "note": {
+        "tr": "Haritanın sol kenarında yer alan işaret cetveli: Vilayet merkezi (çift eşmerkezli daire), Sancak merkezi (noktalı çift daire), Kaza merkezi (noktalı tek daire), Nahiye merkezi, köyler, vilayet sınırları ve demiryolu hatları.",
+        "en": "Map legend on the left showing symbols for Vilayet capital (double concentric circles), Sandjak capitals, Caza centers, Nahies, villages, provincial boundaries, and railways.",
+        "fr": "Légende des signes cartographiques : chef-lieu de Vilayet, chef-lieu de Sandjaks, chef-lieu de Cazas, chef-lieu de Nahiès, villages et chemins de fer."
+      }
+    },
+    {
+      "id": "smyrne",
+      "fr": "SMYRNE (CHEF-LIEU DU VILAYET)",
+      "ota": {
+        "latn": "İzmir / Merkez-i Vilâyet",
+        "arab": "ازمير / مركز ولايت"
+      },
+      "modern": "İzmir (Konak / Tarihi Merkez)",
+      "kind": "city",
+      "sandjak": "Smyrne",
+      "lat": 38.4237,
+      "lon": 27.1428,
+      "bbox": [
+        0.336,
+        0.302,
+        0.052,
+        0.026
+      ],
+      "lit": {
+        "tr": "İzmir (Eis Smyrnan) / Doğu Akdeniz'in İncisi",
+        "en": "Smyrna / Pearl of the Aegean",
+        "fr": "Smyrne / Perle de l'Égée"
+      },
+      "note": {
+        "tr": "Aydın Vilayeti'nin başkenti ve Osmanlı İmparatorluğu'nun en işlek uluslararası ticaret limanı. Kordon boyu, Pasaport rıhtımı, Frank sokağı ve konsolosluklarıyla kozmopolit Doğu Akdeniz metropolü.",
+        "en": "Capital of the Aidin Vilayet and premier commercial seaport of the Ottoman Empire, famed for its cosmopolitan quays, Levantine merchants, and railway termini.",
+        "fr": "Capitale du Vilayet d'Aïdin et premier port de commerce de l'Empire ottoman en Méditerranée orientale, relié à l'arrière-pays par les chemins de fer de Cassaba et d'Aïdin."
+      }
+    },
+    {
+      "id": "pergame",
+      "fr": "PERGAME",
+      "ota": {
+        "latn": "Bergama",
+        "arab": "برغمه"
+      },
+      "modern": "Bergama (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 39.1233,
+      "lon": 27.1811,
+      "bbox": [
+        0.349,
+        0.103,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Bergama (Pergamon / Yüksek Hisar)",
+        "en": "Pergamon / Bergama",
+        "fr": "Pergame / Bergama"
+      },
+      "note": {
+        "tr": "Bakırçay (Kaikos) vadisinde, Helenistik Pergamon Krallığı'nın başkenti ve parşömenin anavatanı olan kadim kaza merkezi.",
+        "en": "Ancient capital of the Attalid dynasty, birthplace of parchment paper, famed for its towering acropolis and Asclepeion sanctuary.",
+        "fr": "Chef-lieu de caza dans la vallée du Caïque, antique capitale des rois de Pergame et foyer de l'invention du parchemin."
+      }
+    },
+    {
+      "id": "phocee",
+      "fr": "PHOCÉE",
+      "ota": {
+        "latn": "Foça / Eski Foça",
+        "arab": "فوچه"
+      },
+      "modern": "Foça (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.6706,
+      "lon": 26.7567,
+      "bbox": [
+        0.265,
+        0.233,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Phokaia (Foklar Yurdu)",
+        "en": "Phocaea / Foça",
+        "fr": "Phocée / Foça"
+      },
+      "note": {
+        "tr": "Antik çağda Marsilya'yı (Massalia) kuran ünlü denizci İon kenti; Osmanlı devrinde korunaklı doğal limanı ve zeytinyağı ticaretiyle bilinen sahil kazası.",
+        "en": "Ancient Ionian maritime power whose sailors founded Marseille in 600 BC; prosperous Ottoman coastal caza known for olive oil and shipping.",
+        "fr": "Antique cité maritime ionienne fondatrice de Marseille (Massalia), port abrité réputé pour son commerce maritime et ses oliveraies."
+      }
+    },
+    {
+      "id": "menemen",
+      "fr": "MÉNÉMEN",
+      "ota": {
+        "latn": "Menemen",
+        "arab": "منمن"
+      },
+      "modern": "Menemen (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.6083,
+      "lon": 27.07,
+      "bbox": [
+        0.327,
+        0.251,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Menemen / Mainomenos (Taşkın Gediz Vadisi)",
+        "en": "Menemen / Gediz Plains",
+        "fr": "Ménemen / Plaine de l'Hermus"
+      },
+      "note": {
+        "tr": "Gediz (Hermos) Nehri deltasında yer alan verimli tarım ve çömlekçilik kazası; İzmir-Kasaba demiryolu hattının önemli istasyonu.",
+        "en": "Fertile agricultural center on the Gediz River plain, famed for traditional pottery and an important station on the Smyrna-Cassaba railway.",
+        "fr": "Bourg agricole fertile situé au débouché de la plaine de l'Hermus, réputé pour sa poterie et sa gare sur la ligne de Cassaba."
+      }
+    },
+    {
+      "id": "tchesme",
+      "fr": "TCHESMÉ",
+      "ota": {
+        "latn": "Çeşme",
+        "arab": "چشمه"
+      },
+      "modern": "Çeşme (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.3242,
+      "lon": 26.3047,
+      "bbox": [
+        0.175,
+        0.333,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Çeşme (Tatlı su pınarları) / Sakız Boğazı Kapısı",
+        "en": "Chesme / Fountain Port",
+        "fr": "Tchesmé / Port des Fontaines"
+      },
+      "note": {
+        "tr": "Sakız Adası'nın tam karşısında yer alan tarihi kale limanı; 1770 Çeşme Deniz Muharebesi'nin geçtiği Osmanlı donanma mevkii.",
+        "en": "Strategic port opposite the island of Chios, guarded by an imposing Genoese-Ottoman fortress; site of the 1770 naval battle.",
+        "fr": "Port historique face à l'île de Chio, dominé par une puissante forteresse génoise et ottomane, théâtre de la bataille navale de 1770."
+      }
+    },
+    {
+      "id": "sivri_hissar",
+      "fr": "SIVRI-HISSAR",
+      "ota": {
+        "latn": "Seferihisar / Sivrihisar",
+        "arab": "سفری حصار / سِوری حصار"
+      },
+      "modern": "Seferihisar (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.1969,
+      "lon": 26.8394,
+      "bbox": [
+        0.281,
+        0.369,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Sivrihisar / Sivri Kale",
+        "en": "Sivrihisar / Sharp Castle",
+        "fr": "Sivri-Hissar / Château Pointu"
+      },
+      "note": {
+        "tr": "Sığacık koyu ve Teos antik kenti yakınlarındaki zeytin ve narenciye merkezi kaza.",
+        "en": "Agricultural caza center near the historic port of Sığacık and ancient Teos, renowned for olive and citrus groves.",
+        "fr": "Chef-lieu de caza agricole à proximité du port fortifié de Sighadjik et des ruines ioniennes de Téos."
+      }
+    },
+    {
+      "id": "kouch_adassi",
+      "fr": "KOUCH-ADASSI",
+      "ota": {
+        "latn": "Kuşadası / Scala Nuova",
+        "arab": "قوش اداسی"
+      },
+      "modern": "Kuşadası (Aydın / o dönem İzmir Sancağı'na bağlı kaza)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 37.8578,
+      "lon": 27.2611,
+      "bbox": [
+        0.365,
+        0.466,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Kuşadası (Güvercinada Kalesi) / Scala Nuova (Yeni İskele)",
+        "en": "Kusadasi / Scala Nuova (Bird Island)",
+        "fr": "Kouch-Adassi / Scala Nuova (Île aux Oiseaux)"
+      },
+      "note": {
+        "tr": "Venedik ve Cenevizlilerin 'Scala Nuova' dediği, Güvercinada kalesiyle korunan kaza merkezi. Efes ve Küçük Menderes havzasının Ege'ye açılan ana limanı.",
+        "en": "Prominent port known to Europeans as Scala Nuova, guarded by the Byzantine-Ottoman Pigeon Island fort; maritime gate to ancient Ephesus.",
+        "fr": "Port célèbre nommé Scala Nuova par les marins génois et vénitiens, défendu par la forteresse insulaire de Guverdjin-Ada."
+      }
+    },
+    {
+      "id": "tireh",
+      "fr": "TIREH",
+      "ota": {
+        "latn": "Tire",
+        "arab": "تيره"
+      },
+      "modern": "Tire (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.0894,
+      "lon": 27.7328,
+      "bbox": [
+        0.459,
+        0.4,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Tire (Thira / Kutsal Belde) / Yeşil Tire",
+        "en": "Tire / Ancient Thira",
+        "fr": "Tiréh / Ville Verte"
+      },
+      "note": {
+        "tr": "Güme Dağı eteklerinde, Aydınoğulları Beyliği'nin tarihi başkentlerinden biri; zengin camileri, medreseleri ve urgancılık zanaatıyla ünlü büyük kaza.",
+        "en": "Historic cultural center at the foot of Güme Mountain, former capital of the Aydinid principality, celebrated for rope-making and Islamic schools.",
+        "fr": "Ancienne capitale de l'émirat des Aydinides, bourgade prospère au pied du mont Güme réputée pour ses madrasas et ses corderies."
+      }
+    },
+    {
+      "id": "baindir",
+      "fr": "BAÏNDIR",
+      "ota": {
+        "latn": "Bayındır",
+        "arab": "بائندير"
+      },
+      "modern": "Bayındır (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.2189,
+      "lon": 27.6492,
+      "bbox": [
+        0.442,
+        0.363,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Bayındır (Oğuzların Bayındır boyu)",
+        "en": "Bayindir (Oghuz Bayindir Clan)",
+        "fr": "Baïndir / Clan oghouz Bayindir"
+      },
+      "note": {
+        "tr": "Küçük Menderes vadisinde verimli tarım, zeytincilik ve çiçekçilik merkezi; İzmir-Aydın demiryolu şubesiyle bağlı kaza.",
+        "en": "Thriving agricultural town in the Cayster valley connected to the British-built Smyrna-Aidin railway network.",
+        "fr": "Centre agricole fertile de la vallée du Petit Méandre, relié au réseau ferré d'Aïdin, réputé pour son arboriculture."
+      }
+    },
+    {
+      "id": "eudemich",
+      "fr": "EUDÉMICH",
+      "ota": {
+        "latn": "Ödemiş",
+        "arab": "اودمش"
+      },
+      "modern": "Ödemiş (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.2289,
+      "lon": 27.9739,
+      "bbox": [
+        0.507,
+        0.36,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Ödemiş (Otamış / Ödemiş Türkmen boyu)",
+        "en": "Odemis / Upper Cayster Basin",
+        "fr": "Eudémich / Haut-Caystre"
+      },
+      "note": {
+        "tr": "Bozdağlar eteğinde, Küçük Menderes ovasının en büyük tarım ve ticaret merkezi; Birgi tarihi beldesini de sınırları içinde barındırır.",
+        "en": "Major economic hub of the upper Cayster plain beneath Mount Tmolus (Bozdağlar), encompassing historic Birgi.",
+        "fr": "Grand centre économique de la haute vallée du Petit Méandre au pied des monts Tmole, comprenant la cité historique de Birghi."
+      }
+    },
+    {
+      "id": "ourla",
+      "fr": "OURLA",
+      "ota": {
+        "latn": "Urla",
+        "arab": "اورله"
+      },
+      "modern": "Urla (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.3228,
+      "lon": 26.7639,
+      "bbox": [
+        0.266,
+        0.333,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Urla / Vourla (Sazlık / Bataklık)",
+        "en": "Urla / Ancient Vourla",
+        "fr": "Ourla / Vourla"
+      },
+      "note": {
+        "tr": "Urla Yarımadası'nın merkezi; Klazomenai antik kenti ve dünyanın ilk zeytinyağı işliğine ev sahipliği yapan kadim bağcılık ve zeytin kenti.",
+        "en": "Administrative center of the Urla peninsula, ancient site of Klazomenai where the world's oldest olive oil press was discovered.",
+        "fr": "Chef-lieu de la péninsule d'Ourla, site de la cité ionienne de Clazomène réputé pour sa production d'huile d'olive et ses vignobles."
+      }
+    },
+    {
+      "id": "bournabat",
+      "fr": "BOURNABAT",
+      "ota": {
+        "latn": "Bornova / Burunova",
+        "arab": "بورنواباد"
+      },
+      "modern": "Bornova (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.4633,
+      "lon": 27.2178,
+      "bbox": [
+        0.357,
+        0.294,
+        0.041,
+        0.02
+      ],
+      "lit": {
+        "tr": "Burunova (Ova burnu)",
+        "en": "Bournabat / Levantine Suburb",
+        "fr": "Bournabat / Faubourg des Levantins"
+      },
+      "note": {
+        "tr": "19. yüzyılda Levanten tüccar ailelerinin muhteşem köşkler inşa ettiği, Türkiye'de ilk futbol ve atletizm müsabakalarının yapıldığı sayfiye merkezi.",
+        "en": "Aristocratic Levantine suburb lined with opulent neoclassical mansions; cradle of modern sports in Turkey where the first football matches were played.",
+        "fr": "Célèbre villégiature de la haute bourgeoisie levantine de Smyrne, parsemée de somptueuses demeures et de jardins d'acclimatation."
+      }
+    },
+    {
+      "id": "boudja",
+      "fr": "BOUDJA",
+      "ota": {
+        "latn": "Buca",
+        "arab": "بوجا"
+      },
+      "modern": "Buca (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.3881,
+      "lon": 27.1783,
+      "bbox": [
+        0.349,
+        0.316,
+        0.041,
+        0.02
+      ],
+      "lit": {
+        "tr": "Buca / Boudja",
+        "en": "Boudja / British Levantine Enclave",
+        "fr": "Boudja / Buca"
+      },
+      "note": {
+        "tr": "İzmir'in güneyindeki serin platoda kurulu, özellikle İngiliz Levanten ailelerin malikaneleri ve köşkleriyle tanınan tarihi sayfiye yerleşimi.",
+        "en": "Highland garden suburb favored by prominent British Levantine trading families, connected by rail to Smyrna quays.",
+        "fr": "Faubourg résidentiel verdoyant sur le plateau sud de Smyrne, résidence d'été privilégiée des grandes familles de négociants britanniques."
+      }
+    },
+    {
+      "id": "tourbali",
+      "fr": "TOURBALI",
+      "ota": {
+        "latn": "Torbalı",
+        "arab": "طوربالی"
+      },
+      "modern": "Torbalı (İzmir)",
+      "kind": "caza",
+      "sandjak": "Smyrne",
+      "lat": 38.1528,
+      "lon": 27.3622,
+      "bbox": [
+        0.385,
+        0.382,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Torbalı (Metropolis Antik Kenti civarı)",
+        "en": "Torbali / Ancient Metropolis",
+        "fr": "Tourbali / Métropolis"
+      },
+      "note": {
+        "tr": "İzmir-Aydın demiryolu üzerinde kavşak istasyonu; Metropolis antik kenti kalıntılarına komşu zengin tütün ve tarım merkezi.",
+        "en": "Strategic railway junction on the Smyrna-Aidin line near the acropolis ruins of ancient Metropolis.",
+        "fr": "Important nœud ferroviaire de la ligne Smyrne-Aïdin situé au cœur d'une riche plaine agricole près des ruines de Métropolis."
+      }
+    },
+    {
+      "id": "manissa",
+      "fr": "MAGNÉSIE DU SIPYLE / MANISSA",
+      "ota": {
+        "latn": "Manisa / Saruhan Merkez",
+        "arab": "مانيسه / صاروخان"
+      },
+      "modern": "Manisa (Şehzadeler / Yunusemre)",
+      "kind": "city",
+      "sandjak": "Saroukhan",
+      "lat": 38.6122,
+      "lon": 27.4264,
+      "bbox": [
+        0.392,
+        0.248,
+        0.052,
+        0.026
+      ],
+      "lit": {
+        "tr": "Sipylos Manisası / Saruhan Sancağı Başkenti",
+        "en": "Magnesia ad Sipylum / Manisa",
+        "fr": "Magnésie du Sipyle / Manissa"
+      },
+      "note": {
+        "tr": "Saruhan Sancağı'nın başkenti; Spil Dağı eteğinde kurulu Osmanlı Şehzadeler kenti. Muradiye ve Sultan Camileri, mesir macunu geleneğiyle ünlü ilim ve ticaret merkezi.",
+        "en": "Capital of the Saroukhan Sandjak, famed Ottoman 'City of Princes' below Mount Sipylus, adorned with imperial mosques and madrasas.",
+        "fr": "Chef-lieu du Sandjak de Saroukhan au pied du mont Sipyle, célèbre cité des princes héritiers ottomans abritant la mosquée Mouradiyé de Sinan."
+      }
+    },
+    {
+      "id": "kassaba",
+      "fr": "KASSABA",
+      "ota": {
+        "latn": "Kasaba / Turgutlu",
+        "arab": "قصبه / تورغودلو"
+      },
+      "modern": "Turgutlu (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 38.4981,
+      "lon": 27.7028,
+      "bbox": [
+        0.453,
+        0.283,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Kasaba (Turgutlu Türkmen beyliği)",
+        "en": "Cassaba / Turgutlu",
+        "fr": "Kassaba / Turgutlu"
+      },
+      "note": {
+        "tr": "Gediz ovasında zengin pamuk, kuru üzüm ve dünyaca meşhur Kasaba kavunlarının üretildiği büyük kaza; 1865 yılında inşa edilen İzmir-Kasaba demiryolunun ilk uç istasyonu.",
+        "en": "Famed for sweet Cassaba melons and cotton; terminus of the first segment of the British-engineered Smyrna-Cassaba railway in 1865.",
+        "fr": "Célèbre pour ses melons de Cassaba et sa production de coton; tête de ligne du chemin de fer de Smyrne à Cassaba achevé en 1865."
+      }
+    },
+    {
+      "id": "akhissar",
+      "fr": "AK-HISSAR",
+      "ota": {
+        "latn": "Akhisar / Thyatira",
+        "arab": "آق حصار"
+      },
+      "modern": "Akhisar (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 38.9244,
+      "lon": 27.8406,
+      "bbox": [
+        0.48,
+        0.16,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Ak-Hisar (Beyaz Kale) / İncil'deki Thyateira",
+        "en": "Akhisar / Ancient Thyatira (White Castle)",
+        "fr": "Ak-Hissar / Antique Thyatire"
+      },
+      "note": {
+        "tr": "İncil'de geçen Batı Anadolu'nun Yedi Kilisesi'nden biri olan Thyateira kalıntıları üzerinde kurulu; zeytincilik, tütün ve köftecilikle tanınan kaza.",
+        "en": "Home to one of the Seven Churches of Asia mentioned in the Book of Revelation; leading Ottoman tobacco, olive, and wool market.",
+        "fr": "L'une des sept Églises d'Asie de l'Apocalypse (Thyatire), grand marché caravanier de tabac et d'olives sur la route de Brousse."
+      }
+    },
+    {
+      "id": "kirkaghatch",
+      "fr": "KIRK-AGHADJ",
+      "ota": {
+        "latn": "Kırkağaç",
+        "arab": "قرق آغاج"
+      },
+      "modern": "Kırkağaç (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 39.1042,
+      "lon": 27.6719,
+      "bbox": [
+        0.447,
+        0.109,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Kırkağaç (Kırk ulu ağaç)",
+        "en": "Kirkagach / Forty Trees",
+        "fr": "Kirk-Aghadj / Quarante Arbres"
+      },
+      "note": {
+        "tr": "Dünyaca ünlü Kırkağaç kavunu, zeytin ve tütün üretimiyle tanınan Bakırçay havzası kazası.",
+        "en": "Renowned across the Mediterranean for its winter melons and olive orchards in the fertile Bakırçay basin.",
+        "fr": "Bourg réputé dans tout l'Orient pour ses melons d'hiver d'une douceur incomparable et ses riches oliveraies."
+      }
+    },
+    {
+      "id": "soma",
+      "fr": "SOMA",
+      "ota": {
+        "latn": "Soma",
+        "arab": "صوما"
+      },
+      "modern": "Soma (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 39.1869,
+      "lon": 27.6108,
+      "bbox": [
+        0.435,
+        0.085,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Soma / Kaza-i Soma",
+        "en": "Soma / Bakirçay Upper Valley",
+        "fr": "Soma"
+      },
+      "note": {
+        "tr": "Bakırçay'ın yukarı havzasında, antik Stratonikeia kalıntıları civarında kurulu linyit ve tarım merkezi kaza.",
+        "en": "Agricultural town in the upper Bakırçay basin near the ruins of Mysian Stratonikeia, later famed for coal mining.",
+        "fr": "Chef-lieu de caza agricole sur le haut Caïque, voisin des ruines antiques de Stratonicée de Mysie."
+      }
+    },
+    {
+      "id": "salihli",
+      "fr": "SALIHLI",
+      "ota": {
+        "latn": "Salihli",
+        "arab": "صالِحلی"
+      },
+      "modern": "Salihli (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 38.4819,
+      "lon": 28.1406,
+      "bbox": [
+        0.54,
+        0.287,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Salihli (Salihoğulları Türkmen cemaati)",
+        "en": "Salihli / Gediz Basin",
+        "fr": "Salihli"
+      },
+      "note": {
+        "tr": "Lidya Krallığı'nın başkenti Sardes harabelerinin yanı başında, Bozdağ eteklerindeki bereketli bağcılık ve kuru üzüm merkezi.",
+        "en": "Booming commercial center situated immediately adjacent to ancient Sardis and the golden sands of the Pactolus river.",
+        "fr": "Ville marchande prospère adossée au mont Tmole, voisine immédiate des ruines grandioses de Sardes et du Pactole."
+      }
+    },
+    {
+      "id": "alachehr",
+      "fr": "ALACHEHR / PHILADELPHIE",
+      "ota": {
+        "latn": "Alaşehir / Filadelfiya",
+        "arab": "آلا شهر"
+      },
+      "modern": "Alaşehir (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 38.3517,
+      "lon": 28.5175,
+      "bbox": [
+        0.615,
+        0.325,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Alaşehir (Alaca Şehir) / Philadelphia (Kardeş Sevgisi)",
+        "en": "Alasehir / Ancient Philadelphia",
+        "fr": "Alachehr / Antique Philadelphie"
+      },
+      "note": {
+        "tr": "Bergama Kralı II. Attalos tarafından kurulan antik Philadelphia; İncil'deki Yedi Kilise'den biri ve meşhur Sultaniye çekirdeksiz üzüm bağlarının merkezi.",
+        "en": "Ancient Philadelphia, one of the Seven Churches of Revelation, renowned for sweet sultana raisin vineyards and thermal springs.",
+        "fr": "Fondée par Attale II Philadelphe, l'une des sept Églises d'Asie, célèbre pour sa résistance byzantine et ses vignobles de raisins secs."
+      }
+    },
+    {
+      "id": "koula",
+      "fr": "KOULA / KATAKEKAUMENE",
+      "ota": {
+        "latn": "Kula",
+        "arab": "قوله"
+      },
+      "modern": "Kula (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 38.5469,
+      "lon": 28.6497,
+      "bbox": [
+        0.641,
+        0.269,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Kula / Katakekaumene (Yanık Ülke)",
+        "en": "Kula / Burnt Country (Katakekaumene)",
+        "fr": "Koula / Pays Brûlé"
+      },
+      "note": {
+        "tr": "Strabon'un 'Yanık Ülke' (Katakekaumene) dediği genç volkanik koniler arasında kurulu; geleneksel ahşap Osmanlı konakları ve el dokuması Kula halılarıyla meşhur kaza.",
+        "en": "Set amidst the dramatic cinder cones of the 'Burnt Land' (Katakekaumene); celebrated for Ottoman timber mansions and wool carpets.",
+        "fr": "Bourg remarquable niché au cœur des volcans éteints du 'Pays Brûlé' de Strabon, réputé pour ses tapis de laine noués main et ses demeures ottomanes."
+      }
+    },
+    {
+      "id": "gheurdes",
+      "fr": "GHEURDÈS",
+      "ota": {
+        "latn": "Gördes",
+        "arab": "گوردس"
+      },
+      "modern": "Gördes (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 38.9328,
+      "lon": 28.2917,
+      "bbox": [
+        0.57,
+        0.158,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Gördes / Gördes Düğümü (Dünya halıcılık terimi)",
+        "en": "Gordes / Origin of the 'Ghiordes Knot'",
+        "fr": "Gheurdès / Nœud de Ghiordès"
+      },
+      "note": {
+        "tr": "Dünya halıcılık literatürüne 'Gördes düğümü' (çift düğüm) terimini kazandıran, kök boyalı tarihi seccade ve halılarıyla ünlü kaza.",
+        "en": "Birthplace of the internationally famous 'Ghiordes knot' in oriental carpet weaving, prized in museums worldwide.",
+        "fr": "Célèbre foyer de tissage qui donna son nom au 'nœud de Ghiordès' (nœud turc symétrique) universellement connu en tapis d'Orient."
+      }
+    },
+    {
+      "id": "demirdji",
+      "fr": "DÉMIRDJI",
+      "ota": {
+        "latn": "Demirci",
+        "arab": "دمرجی"
+      },
+      "modern": "Demirci (Manisa)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 39.0461,
+      "lon": 28.6586,
+      "bbox": [
+        0.643,
+        0.125,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Demirci (Demirciler yurdu)",
+        "en": "Demirci / Blacksmiths Town",
+        "fr": "Démirdji / Forgerons"
+      },
+      "note": {
+        "tr": "Saruhan Sancağı'nın kuzeydoğu dağlık kesiminde, yün eğirme ve el dokuması cami halılarıyla tanınan köklü kaza merkezi.",
+        "en": "Mountainous highland district celebrated for handcrafted wool carpets and mosque rugs.",
+        "fr": "Chef-lieu de montagne réputé pour sa manufacture de tapis de laine et ses forêts de pins."
+      }
+    },
+    {
+      "id": "echme",
+      "fr": "ECHMÉ (CH.L. TAKMAK)",
+      "ota": {
+        "latn": "Eşme / Takmak",
+        "arab": "اشمه / طاقماق"
+      },
+      "modern": "Eşme (günümüzde Uşak iline bağlı / o dönem Saruhan Sancağı)",
+      "kind": "caza",
+      "sandjak": "Saroukhan",
+      "lat": 38.3986,
+      "lon": 28.9706,
+      "bbox": [
+        0.705,
+        0.311,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Eşme (Eski merkezi Takmak)",
+        "en": "Eshme (Capital Takmak)",
+        "fr": "Echmé (Chef-lieu Takmak)"
+      },
+      "note": {
+        "tr": "O dönem Saruhan Sancağı'na bağlı olan ve merkezi Takmak köyü olan kaza; dünyaca ünlü kök boyalı Eşme kilimlerinin anavatanı.",
+        "en": "Easternmost caza of Saroukhan Sandjak with its historical capital at Takmak, renowned for colorful geometric flat-weave kilims.",
+        "fr": "Caza le plus oriental de Saroukhan ayant pour chef-lieu Takmak, berceau des célèbres kilims d'Echmé."
+      }
+    },
+    {
+      "id": "aidin",
+      "fr": "AÏDIN / GUZEL-HISSAR",
+      "ota": {
+        "latn": "Aydın / Güzelhisar",
+        "arab": "ايزدين / كوزل حصار"
+      },
+      "modern": "Aydın (Efeler / Merkez)",
+      "kind": "city",
+      "sandjak": "Aïdin",
+      "lat": 37.8444,
+      "lon": 27.8458,
+      "bbox": [
+        0.476,
+        0.469,
+        0.052,
+        0.026
+      ],
+      "lit": {
+        "tr": "Aydın Güzelhisarı / Antik Tralleis Eteği",
+        "en": "Aydin / Guzelhisar (Beautiful Castle)",
+        "fr": "Aïdin / Guzel-Hissar (Beau-Château)"
+      },
+      "note": {
+        "tr": "Aydın Sancağı'nın başkenti; Büyük Menderes vadisinin kalbinde, antik Tralleis kenti eteğinde kurulu incir, zeytin ve pamuk cenneti. Anadolu'nun ilk demiryolu hattı (İzmir-Aydın, 1856-1866) buraya ulaşmıştır.",
+        "en": "Capital of the Aidin Sandjak in the heart of the fertile Meander valley, world capital of dried figs; destination of the first railway built in Anatolia (1866).",
+        "fr": "Chef-lieu du Sandjak d'Aïdin au cœur de la riche vallée du Méandre, capitale mondiale de la figue sèche et terminus du premier chemin de fer anatolien."
+      }
+    },
+    {
+      "id": "nazilli",
+      "fr": "NAZILLI",
+      "ota": {
+        "latn": "Nazilli",
+        "arab": "نازللی"
+      },
+      "modern": "Nazilli (Aydın)",
+      "kind": "caza",
+      "sandjak": "Aïdin",
+      "lat": 37.9133,
+      "lon": 28.3228,
+      "bbox": [
+        0.576,
+        0.451,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Nazilli (Nazlı ili)",
+        "en": "Nazilli / Upper Meander Valley",
+        "fr": "Nazilli"
+      },
+      "note": {
+        "tr": "Büyük Menderes vadisinin yukarı kesiminde yer alan kaza; zengin narenciye, pamuk ve zeytin tarımı ile canlı ticaret pazarı.",
+        "en": "Major trading center of the upper Meander basin, renowned for citrus, olives, and premium cotton production.",
+        "fr": "Grand carrefour marchand de la haute vallée du Méandre, entouré de vergers d'agrumes et de cotonniers."
+      }
+    },
+    {
+      "id": "sevke",
+      "fr": "SÉVKÉ",
+      "ota": {
+        "latn": "Söke",
+        "arab": "صوكه"
+      },
+      "modern": "Söke (Aydın)",
+      "kind": "caza",
+      "sandjak": "Aïdin",
+      "lat": 37.7511,
+      "lon": 27.4114,
+      "bbox": [
+        0.395,
+        0.497,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Söke (Söke Türkmen oymağı)",
+        "en": "Soke / Lower Meander Plain",
+        "fr": "Sévké / Söke"
+      },
+      "note": {
+        "tr": "Büyük Menderes deltasının girişinde, Priene ve Milet antik kentlerine komşu dev pamuk ovasının kaza merkezi.",
+        "en": "Gateway to the Great Meander delta plain, neighboring the ancient Ionian ruins of Priene and Miletus; vast cotton farming hub.",
+        "fr": "Chef-lieu de la plaine alluviale du bas Méandre, carrefour cotonnier voisin des sites antiques de Priène et de Milet."
+      }
+    },
+    {
+      "id": "tchina",
+      "fr": "TCHINA (CH.L. KIR-OVA)",
+      "ota": {
+        "latn": "Çine / Kır-Ova",
+        "arab": "چينه / قيراووه"
+      },
+      "modern": "Çine (Aydın)",
+      "kind": "caza",
+      "sandjak": "Aïdin",
+      "lat": 37.6167,
+      "lon": 28.0647,
+      "bbox": [
+        0.525,
+        0.536,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Çine (Kırova merkezi)",
+        "en": "Chine (Capital Kir-Ova)",
+        "fr": "Tchina (Chef-lieu Kir-Ova)"
+      },
+      "note": {
+        "tr": "Çine Çayı (antik Marsyas) vadisinde kurulu kaza; Madran Dağı yaylaları ve zeytinyağı üretimiyle meşhurdur.",
+        "en": "Caza center on the Marsyas (Çine) river valley between Mount Madran and the Aidin plains, known for pure spring waters and olives.",
+        "fr": "Chef-lieu de caza arrosé par le Marsyas (Tchina-tchaï), célèbre pour ses oliveraies et ses eaux minérales du mont Madran."
+      }
+    },
+    {
+      "id": "bozdoghan",
+      "fr": "BOZDOGHAN",
+      "ota": {
+        "latn": "Bozdoğan",
+        "arab": "بوزدوغان"
+      },
+      "modern": "Bozdoğan (Aydın)",
+      "kind": "caza",
+      "sandjak": "Aïdin",
+      "lat": 37.7408,
+      "lon": 28.3125,
+      "bbox": [
+        0.574,
+        0.5,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Bozdoğan (Boz Doğan kuşu / Türkmen oymağı)",
+        "en": "Bozdogan / Falcon Crest",
+        "fr": "Bozdoghan"
+      },
+      "note": {
+        "tr": "Madran Dağı'nın doğu yamacında, Akçay vadisine bakan tarihi kaza merkezi.",
+        "en": "Picturesque foothill caza overlooking the Akçay river valley, famed for Madran spring water and walnuts.",
+        "fr": "Bourg perché sur le versant oriental du mont Madran dominant la vallée de l'Aktchaï."
+      }
+    },
+    {
+      "id": "denisli",
+      "fr": "DÉNIZLI",
+      "ota": {
+        "latn": "Denizli / Lâdik",
+        "arab": "دكزلی / لادق"
+      },
+      "modern": "Denizli (Merkezefendi / Pamukkale)",
+      "kind": "city",
+      "sandjak": "Denisli",
+      "lat": 37.7765,
+      "lon": 29.0864,
+      "bbox": [
+        0.722,
+        0.488,
+        0.052,
+        0.026
+      ],
+      "lit": {
+        "tr": "Denizli (Tonguzlu / Suyu Bol Şehir) / Laodikeia",
+        "en": "Denizli / Ancient Laodicea on the Lycus",
+        "fr": "Dénizli / Antique Laodicée"
+      },
+      "note": {
+        "tr": "Denizli Sancağı'nın başkenti; Honaz ve Babadağ eteklerinde zengin su kaynakları, Pamukkale travertenleri ve bin yıllık dokumacılık geleneğiyle parlayan ticaret şehri.",
+        "en": "Capital of the Denisli Sandjak, nestled below Mt. Honaz near the white travertine terraces of Pamukkale and ancient Hierapolis, global center of textile weaving.",
+        "fr": "Chef-lieu du Sandjak de Dénizli au pied du mont Cadmus, voisin des terrasses de travertin de Pamoukkalé (Hiérapolis) et réputé pour son tissage traditionnel."
+      }
+    },
+    {
+      "id": "saraykeui",
+      "fr": "SARAÏ-KEUÏ",
+      "ota": {
+        "latn": "Sarayköy",
+        "arab": "سرای كوی"
+      },
+      "modern": "Sarayköy (Denizli)",
+      "kind": "caza",
+      "sandjak": "Denisli",
+      "lat": 37.9228,
+      "lon": 28.9242,
+      "bbox": [
+        0.696,
+        0.448,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Sarayköy (Saray Köyü)",
+        "en": "Saraykoy / Palace Village",
+        "fr": "Saraï-Keuï"
+      },
+      "note": {
+        "tr": "Büyük Menderes vadisinin Denizli ovasına açıldığı boğazda, pamuk ve jeotermal kaplıcalar bölgesi kaza merkezi.",
+        "en": "Caza town at the confluence of the Lycus and Meander rivers, railway terminal and cotton trading station.",
+        "fr": "Bourg carrefour au confluent du Méandre et du Lycus, station ferroviaire et centre de filature du coton."
+      }
+    },
+    {
+      "id": "tchal",
+      "fr": "TCHAL (CH.L. DÉMIRDJI)",
+      "ota": {
+        "latn": "Çal / Demirciköy",
+        "arab": "چال / دمرجی"
+      },
+      "modern": "Çal (Denizli)",
+      "kind": "caza",
+      "sandjak": "Denisli",
+      "lat": 37.9308,
+      "lon": 29.4069,
+      "bbox": [
+        0.792,
+        0.445,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Çal (Yüksek Taşlık Tepe)",
+        "en": "Chal (Capital Demirdji)",
+        "fr": "Tchal (Chef-lieu Démirdji)"
+      },
+      "note": {
+        "tr": "Büyük Menderes'in derin kanyonlar oluşturduğu yüksek platoda, bağcılık ve pekmez üretimiyle ünlü kaza merkezi.",
+        "en": "Highland plateau caza encircled by dramatic gorges of the upper Meander, famed for centuries for wine and table grape vineyards.",
+        "fr": "Chef-lieu perché sur un plateau entaillé par les gorges du haut Méandre, réputé pour ses vignobles ancestraux."
+      }
+    },
+    {
+      "id": "davas",
+      "fr": "DAVAS (CH.L. YAREN-GHÉMÉ)",
+      "ota": {
+        "latn": "Tavas / Yarengüme",
+        "arab": "طواس / يارن كومه"
+      },
+      "modern": "Tavas (Denizli)",
+      "kind": "caza",
+      "sandjak": "Denisli",
+      "lat": 37.575,
+      "lon": 29.0686,
+      "bbox": [
+        0.725,
+        0.548,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Tavas / Davas (Yarengüme)",
+        "en": "Tavas / Davas",
+        "fr": "Davas / Yaren-Ghémé"
+      },
+      "note": {
+        "tr": "Batı Toroslar kuşağında, yayla iklimi ve zeybekler diyarı olarak bilinen köklü kaza merkezi.",
+        "en": "High mountain valley caza nestled behind Mount Babadağ, home to traditional Zeybek highland culture.",
+        "fr": "Chef-lieu de haute montagne au climat montagnard vivifiant, au sud du mont Salbacus."
+      }
+    },
+    {
+      "id": "bouladan",
+      "fr": "BOULADAN",
+      "ota": {
+        "latn": "Buldan",
+        "arab": "بولدان"
+      },
+      "modern": "Buldan (Denizli)",
+      "kind": "caza",
+      "sandjak": "Denisli",
+      "lat": 38.0469,
+      "lon": 28.8319,
+      "bbox": [
+        0.678,
+        0.412,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Buldan (Bulanık pınarlar / İpek dokuma diyarı)",
+        "en": "Buldan / Famous Weaving Center",
+        "fr": "Bouladan / Centre Textile"
+      },
+      "note": {
+        "tr": "Roma ve Osmanlı saraylarına peştamal, bürümcük ve ipek kumaş dokuyan, dünyaca meşhur tarihi dokumacılık kenti.",
+        "en": "Celebrated craft town famous for centuries for fine cotton pestemals, silk weaving, and traditional Ottoman handlooms.",
+        "fr": "Cité artisanale renommée pour ses toiles de coton légères, ses soieries et ses tissages fins fournis jadis au palais impérial."
+      }
+    },
+    {
+      "id": "kara_aghadj",
+      "fr": "KARA-AGHADJ (CH.L. ADJI-BADEM)",
+      "ota": {
+        "latn": "Garbî Karaağaç / Acıpayam",
+        "arab": "قره آغاج / آجی پايام"
+      },
+      "modern": "Acıpayam (Denizli)",
+      "kind": "caza",
+      "sandjak": "Denisli",
+      "lat": 37.4264,
+      "lon": 29.3547,
+      "bbox": [
+        0.781,
+        0.59,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Garbî Karaağaç / Acıpayam (Acı badem ovası)",
+        "en": "Acipayam / Western Karaagach",
+        "fr": "Kara-Aghadj / Adji-Badem"
+      },
+      "note": {
+        "tr": "Denizli'nin güneydoğusundaki geniş Acıpayam ovasının tahıl, hayvancılık ve ormancılık kaza merkezi.",
+        "en": "Extensive agricultural plateau in southwestern Anatolia famed for grain farming, livestock, and pine timber.",
+        "fr": "Vaste plaine céréalière et sylvicole du sud-est du Sandjak de Dénizli."
+      }
+    },
+    {
+      "id": "mougla",
+      "fr": "MOUGLA",
+      "ota": {
+        "latn": "Muğla / Menteşe Merkez",
+        "arab": "موغلا / منتشه"
+      },
+      "modern": "Muğla (Menteşe / Merkez)",
+      "kind": "city",
+      "sandjak": "Mentéché",
+      "lat": 37.2153,
+      "lon": 28.3636,
+      "bbox": [
+        0.579,
+        0.649,
+        0.052,
+        0.026
+      ],
+      "lit": {
+        "tr": "Menteşe Beyliği Başkenti / Muğla (Mobolla)",
+        "en": "Mugla / Ancient Mobolla (Menteche Capital)",
+        "fr": "Mougla / Capitale du Mentéché"
+      },
+      "note": {
+        "tr": "Menteşe Sancağı'nın başkenti; Asar Dağı eteğinde kurulu özgün kiremitli bacaları, ahşap arastası ve hanlarıyla ünlü tarihi Karya şehri.",
+        "en": "Capital of the Mentéché Sandjak, famed for its distinct white chimneys, Ottoman timber bazaars, and ancient Carian roots.",
+        "fr": "Chef-lieu du Sandjak de Mentéché adossé au mont Asar, célèbre pour ses cheminées traditionnelles blanchies à la chaux et ses bazars."
+      }
+    },
+    {
+      "id": "bodroum",
+      "fr": "BODROUM / HALICARNASSE",
+      "ota": {
+        "latn": "Bodrum / Halikarnas",
+        "arab": "بودروم / هاليقارناس"
+      },
+      "modern": "Bodrum (Muğla)",
+      "kind": "caza",
+      "sandjak": "Mentéché",
+      "lat": 37.0383,
+      "lon": 27.4292,
+      "bbox": [
+        0.399,
+        0.702,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Petronium (St. Jean Şövalyeleri Kalesi) / Halikarnassos",
+        "en": "Bodrum / Ancient Halicarnassus (Castle of St. Peter)",
+        "fr": "Bodroum / Antique Halicarnasse"
+      },
+      "note": {
+        "tr": "Dünyanın Yedi Harikası'ndan Kral Mausolos'un Mozolesi'nin bulunduğu antik kent; St. Peter Şövalye Kalesi, tersanesi ve süngerciliğiyle tanınan kaza.",
+        "en": "Home to the Mausoleum at Halicarnassus, one of the Seven Wonders of the Ancient World, and the formidable Crusader Castle of St. Peter.",
+        "fr": "Patrie d'Hérodote et site du Mausolée d'Halicarnasse (l'une des Sept Merveilles du Monde), défendue par le château médiéval Saint-Pierre."
+      }
+    },
+    {
+      "id": "milas",
+      "fr": "MILAS / MYLASA",
+      "ota": {
+        "latn": "Milas",
+        "arab": "ميلاس"
+      },
+      "modern": "Milas (Muğla)",
+      "kind": "caza",
+      "sandjak": "Mentéché",
+      "lat": 37.3164,
+      "lon": 27.7839,
+      "bbox": [
+        0.469,
+        0.622,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Mylasa (Karya Krallığı'nın ilk başkenti)",
+        "en": "Milas / Ancient Mylasa",
+        "fr": "Milas / Antique Mylasa"
+      },
+      "note": {
+        "tr": "Karya'nın kadim başkenti; Gümüşkesen anıt mezarı, Baltalı Kapı ve Menteşeoğulları'nın ulu Firuz Bey Camii ile ünlü tarihi kaza.",
+        "en": "Ancient inland capital of Caria, boasting the Roman Gümüşkesen tomb and historic 14th-century Firuz Bey Mosque.",
+        "fr": "Première capitale de la Carie antique, remarquable par son monument funéraire romain de Gümüşkesen et ses mosquées d'époque Menteché."
+      }
+    },
+    {
+      "id": "marmaris",
+      "fr": "MARMARIS / PHYSCUS",
+      "ota": {
+        "latn": "Marmaris",
+        "arab": "مرمريس"
+      },
+      "modern": "Marmaris (Muğla)",
+      "kind": "caza",
+      "sandjak": "Mentéché",
+      "lat": 36.855,
+      "lon": 28.2742,
+      "bbox": [
+        0.567,
+        0.754,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Marmaris (Mermer limanı / Physcus)",
+        "en": "Marmaris / Ancient Physcus",
+        "fr": "Marmaris / Antique Physcus"
+      },
+      "note": {
+        "tr": "Rodos seferi sırasında Kanuni Sultan Süleyman tarafından genişletilen kalesi ve fırtınalara kapalı eşsiz doğal limanıyla tanınan sahil kazası.",
+        "en": "Superb landlocked natural harbor with a castle restored by Sultan Suleiman the Magnificent prior to the 1522 siege of Rhodes.",
+        "fr": "Rade naturelle d'une exceptionnelle sécurité, dont le château fort fut rebâti par Soliman le Magnifique pour l'expédition de Rhodes."
+      }
+    },
+    {
+      "id": "keuidjies",
+      "fr": "KEUÏDJIÈS (CH.L. YUKSEK KOUM)",
+      "ota": {
+        "latn": "Köyceğiz / Yüksek Kum",
+        "arab": "كويجكز / يوكسك قوم"
+      },
+      "modern": "Köyceğiz (Muğla)",
+      "kind": "caza",
+      "sandjak": "Mentéché",
+      "lat": 36.9686,
+      "lon": 28.6947,
+      "bbox": [
+        0.65,
+        0.722,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Köyceğiz (Köyceğiz Gölü / Yüksek Kum iskelesi)",
+        "en": "Koycegiz / Lake of Koycegiz",
+        "fr": "Keuïdjies / Lac de Keuïdjégiz"
+      },
+      "note": {
+        "tr": "Köyceğiz Gölü kıyısında, narenciye ve sığla (günlük) ormanlarıyla çevrili kaza; Dalyan lagünü ve Kaunos kaya mezarlarına komşudur.",
+        "en": "Lakeside caza town famous for rare sweetgum (liquidambar) forests, adjacent to the Dalyan estuary and rock-cut Lycian tombs of Kaunos.",
+        "fr": "Bourg lacustre bordé par les rares forêts de liquidambar (ambre liquide), voisin des tombeaux rupestres de Caunos."
+      }
+    },
+    {
+      "id": "makri",
+      "fr": "MAKRI / TELMESSOS",
+      "ota": {
+        "latn": "Meğri / Fethiye",
+        "arab": "مكری"
+      },
+      "modern": "Fethiye (Muğla / eski adı Meğri)",
+      "kind": "caza",
+      "sandjak": "Mentéché",
+      "lat": 36.6214,
+      "lon": 29.1164,
+      "bbox": [
+        0.734,
+        0.821,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Meğri (Makri: Uzun kıyı) / Antik Telmessos (Işık Ülkesi)",
+        "en": "Makri / Modern Fethiye (Ancient Telmessos)",
+        "fr": "Makri / Telmessos (Actuelle Fethiye)"
+      },
+      "note": {
+        "tr": "Likya'nın batı kapısı; dik kayalara oyulmuş Amintas Kaya Mezarları ve korunaklı körfeziyle tanınan kaza (1934'te şehit pilot Fethi Bey anısına Fethiye adını almıştır).",
+        "en": "Western bastion of ancient Lycia, celebrated for the monumental rock-cut Tomb of Amyntas carved into sheer limestone cliffs.",
+        "fr": "Antique Telmessos de Lycie, dominée par les spectaculaires tombeaux rupestres d'Amyntas sculptés dans la falaise."
+      }
+    },
+    {
+      "id": "mont_sipyle",
+      "fr": "MANISSA-DAGH / MONT SIPYLE",
+      "ota": {
+        "latn": "Spil Dağı / Manisa Dağı",
+        "arab": "سپيل داغی"
+      },
+      "modern": "Spil Dağı (1513 m, Manisa)",
+      "kind": "mountain",
+      "sandjak": "Saroukhan",
+      "lat": 38.5667,
+      "lon": 27.45,
+      "bbox": [
+        0.403,
+        0.263,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Spil Dağı / Ağlayan Kaya (Niobe Kayası)",
+        "en": "Mount Sipylus / Mount Spil (1,513 m)",
+        "fr": "Mont Sipyle / Manissa-Dagh"
+      },
+      "note": {
+        "tr": "Mitolojide Tantalos ve Niobe efsanelerine konu olan heybetli kireçtaşı kütlesi; yabani yılkı atları ve endemik Manisa lalesiyle meşhurdur.",
+        "en": "Mythological mountain home to the Weeping Rock of Niobe and King Tantalus; celebrated for wild horses and endemic flora.",
+        "fr": "Massif montagneux légendaire lié au mythe de Niobé et de Tantale, dominant Manisa de ses parois abruptes de calcaire."
+      }
+    },
+    {
+      "id": "bozdagh",
+      "fr": "BOZ-DAGH / MONT TMOLUS",
+      "ota": {
+        "latn": "Bozdağlar / Cebel-i Tmolos",
+        "arab": "بوز داغی"
+      },
+      "modern": "Bozdağ (2159 m, Ödemiş / Manisa sınırı)",
+      "kind": "mountain",
+      "sandjak": "Smyrne",
+      "lat": 38.3267,
+      "lon": 28.0958,
+      "bbox": [
+        0.531,
+        0.332,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Bozdağ (Antik Tmolos)",
+        "en": "Mount Tmolus / Bozdag (2,159 m)",
+        "fr": "Mont Tmole / Boz-Dagh"
+      },
+      "note": {
+        "tr": "Ege Bölgesi'nin en yüksek doruklarından biri (2159 m); Küçük Menderes ile Gediz havzalarını birbirinden ayıran tarihi kar ve yayla dağı.",
+        "en": "Highest crest of western Anatolia (2,159 m), dividing the Hermus and Cayster basins, source of the gold-bearing Pactolus river.",
+        "fr": "Sommet culminant d'Anatolie occidentale (2159 m), séparant le bassin du Gediz de celui du Petit Méandre, berceau du dieu Dionysos."
+      }
+    },
+    {
+      "id": "bech_parmak",
+      "fr": "BECH-PARMAK DAGH / MONT LATMOS",
+      "ota": {
+        "latn": "Beşparmak Dağları / Cebel-i Lâtmos",
+        "arab": "بش بارماق داغی"
+      },
+      "modern": "Beşparmak Dağları (Latmos, 1375 m, Aydın / Muğla)",
+      "kind": "mountain",
+      "sandjak": "Aïdin",
+      "lat": 37.5,
+      "lon": 27.5333,
+      "bbox": [
+        0.419,
+        0.569,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Beşparmak Dağları (Beş Parmaklı Zirve) / Latmos",
+        "en": "Mount Latmos / Five-Finger Mountain (1,375 m)",
+        "fr": "Mont Latmos / Montagne aux Cinq Doigts"
+      },
+      "note": {
+        "tr": "Bafa Gölü üzerinde yükselen gnays kaya bloklarıyla kaplı gizemli dağ; 8000 yıllık Neolitik kaya resimlerine ve Ay Tanrıçası Selene ile çoban Endymion mitine ev sahipliği yapar.",
+        "en": "Iconic surreal granite-gneiss massif above Lake Bafa, famous for prehistoric rock paintings and the myth of Endymion and Selene.",
+        "fr": "Massif granitique fantastique surplombant le lac de Bafa, haut lieu mythologique du berger Endymion et de la déesse Séléné."
+      }
+    },
+    {
+      "id": "honaz_dagh",
+      "fr": "KHONAS-DAGH / MONT CADMUS",
+      "ota": {
+        "latn": "Honaz Dağı / Cebel-i Kadmos",
+        "arab": "خوناز داغی"
+      },
+      "modern": "Honaz Dağı (2571 m, Denizli)",
+      "kind": "mountain",
+      "sandjak": "Denisli",
+      "lat": 37.6833,
+      "lon": 29.2833,
+      "bbox": [
+        0.767,
+        0.517,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Honaz Dağı (Ege Bölgesi'nin En Yüksek Zirvesi, 2571 m)",
+        "en": "Mount Cadmus / Honaz Dagh (Highest in Aegean Region, 2,571 m)",
+        "fr": "Mont Cadmus / Khonas-Dagh (Point culminant de l'Égée, 2571 m)"
+      },
+      "note": {
+        "tr": "Ege Bölgesi'nin en yüksek dağı (2571 m); eteklerinde antik Kolossai kenti kalıntıları yer alır.",
+        "en": "Highest mountain peak in the entire Aegean Region of Turkey (2,571 m), rising dramatically over the ruins of Colossae.",
+        "fr": "Point culminant de toute la région égéenne (2571 m), veillant sur la cité biblique de Colosses."
+      }
+    },
+    {
+      "id": "fleuve_meandre",
+      "fr": "FLEUVE MÉANDRE / MENDÉRÈS-TCHAÏ",
+      "ota": {
+        "latn": "Büyük Menderes Nehri",
+        "arab": "بيوك مندرس نهری"
+      },
+      "modern": "Büyük Menderes Nehri (548 km)",
+      "kind": "water",
+      "sandjak": "Aïdin",
+      "lat": 37.8833,
+      "lon": 27.65,
+      "bbox": [
+        0.434,
+        0.459,
+        0.058,
+        0.023
+      ],
+      "lit": {
+        "tr": "Büyük Menderes (Maiandros) / Büklümlü Su",
+        "en": "Great Meander River (Origin of 'Meander')",
+        "fr": "Fleuve Méandre (Origine du terme géographique)"
+      },
+      "note": {
+        "tr": "Dinar'dan doğup Ege'ye dökülen 548 km uzunluğundaki tarihi nehir; antik çağdan bu yana menderesli kıvrımlarıyla dünya dillerine 'meander' terimini vermiştir.",
+        "en": "The legendary 548 km river draining southwestern Anatolia whose serpentine looping curves gave the universal term 'meander'.",
+        "fr": "Le plus important fleuve de la province (548 km), dont les méandres sinueux et pittoresques ont donné naissance au terme universel."
+      }
+    },
+    {
+      "id": "petit_meandre",
+      "fr": "KUTCHUK-MENDÉRÈS / FLEUVE CAYSTRE",
+      "ota": {
+        "latn": "Küçük Menderes Nehri",
+        "arab": "كوچك مندرس نهری"
+      },
+      "modern": "Küçük Menderes Nehri (Kaystros, 175 km)",
+      "kind": "water",
+      "sandjak": "Smyrne",
+      "lat": 38.1167,
+      "lon": 27.5,
+      "bbox": [
+        0.404,
+        0.392,
+        0.058,
+        0.023
+      ],
+      "lit": {
+        "tr": "Küçük Menderes / Antik Kaystros",
+        "en": "Cayster River / Little Meander",
+        "fr": "Petit Méandre / Fleuve Caystre"
+      },
+      "note": {
+        "tr": "Bozdağlar'dan doğup Tire, Bayındır ve Ödemiş ovalarını sulayarak Efes yakınlarından denize ulaşan bereketli vadi akarsuyu.",
+        "en": "Fertile alluvial river rising in the Tmolus mountains, nourishing Tire and Odemis before flowing into the sea past Ephesus.",
+        "fr": "Fleuve fertile d'Ionie né dans les monts Tmole, arrosant les plaines d'Eudémich et de Tiréh pour déboucher à Éphèse."
+      }
+    },
+    {
+      "id": "fleuve_hermus",
+      "fr": "GUEDIZI-TCHAÏ / FLEUVE HERMUS",
+      "ota": {
+        "latn": "Gediz Nehri / Nehr-i Hermus",
+        "arab": "كدوز نهری"
+      },
+      "modern": "Gediz Nehri (Hermos, 401 km)",
+      "kind": "water",
+      "sandjak": "Saroukhan",
+      "lat": 38.65,
+      "lon": 27.2,
+      "bbox": [
+        0.344,
+        0.239,
+        0.058,
+        0.023
+      ],
+      "lit": {
+        "tr": "Gediz Nehri (Hermos) / Yeni Yatağı",
+        "en": "Gediz River / Hermus",
+        "fr": "Fleuve Hermus / Guedizi-tchaï"
+      },
+      "note": {
+        "tr": "İç Ege dağlarından doğup İzmir Körfezi girişine dökülen 401 km'lik nehir; haritada 1886 yılında İzmir Limanı'nın dolmasını önlemek için açılan 'Nouveau Cours' (Yeni Yatak) açıkça işaretlenmiştir.",
+        "en": "Historic 401 km river; Cuinet's map clearly shows the newly engineered 'Nouveau Cours' dug in 1886 to divert its silt away from Smyrna harbor.",
+        "fr": "Grand fleuve d'Anatolie occidentale (401 km). La carte illustre son 'Nouveau Cours' creusé en 1886 pour détourner les alluvions du golfe de Smyrne."
+      }
+    },
+    {
+      "id": "lac_bafa",
+      "fr": "BAFAGUEUL / LAC LATMIQUE",
+      "ota": {
+        "latn": "Bafa Gölü / Çamiçi",
+        "arab": "بافا كولی"
+      },
+      "modern": "Bafa Gölü (Aydın / Muğla sınırı)",
+      "kind": "water",
+      "sandjak": "Aïdin",
+      "lat": 37.5,
+      "lon": 27.4333,
+      "bbox": [
+        0.397,
+        0.569,
+        0.046,
+        0.023
+      ],
+      "lit": {
+        "tr": "Bafa Gölü (Antik Latmos Körfezi)",
+        "en": "Lake Bafa / Ancient Latmian Gulf",
+        "fr": "Lac de Bafa / Golfe Latmique"
+      },
+      "note": {
+        "tr": "Antik çağda Ege Denizi'nin açık bir körfeziyken Büyük Menderes alüvyonlarıyla önü kapanarak göle dönüşen doğa ve tarih harikası; Herakleia antik kenti ve manastır adalarını barındırır.",
+        "en": "Originally an open gulf of the Aegean Sea until the Meander silt cut it off; home to ancient Heraclea and Byzantine island monasteries.",
+        "fr": "Ancien golfe maritime fermé par les sédiments du Méandre, joyau naturel parsemé d'îlots monastiques byzantins et des ruines d'Héraclée."
+      }
+    },
+    {
+      "id": "golfe_smyrne",
+      "fr": "GOLFE DE SMYRNE",
+      "ota": {
+        "latn": "İzmir Körfezi",
+        "arab": "ازمير كورفزی"
+      },
+      "modern": "İzmir Körfezi",
+      "kind": "water",
+      "sandjak": "Smyrne",
+      "lat": 38.4833,
+      "lon": 26.9,
+      "bbox": [
+        0.288,
+        0.285,
+        0.052,
+        0.026
+      ],
+      "lit": {
+        "tr": "İzmir Körfezi",
+        "en": "Gulf of Smyrna",
+        "fr": "Golfe de Smyrne"
+      },
+      "note": {
+        "tr": "Ege Denizi'nin doğusunda 64 km içeriye sokulan, Karaburun ve Foça yarımadalarıyla korunaklı muazzam doğal liman havzası.",
+        "en": "Sheltered 64 km deep natural marine inlet serving as the maritime lifeblood of Smyrna.",
+        "fr": "Vaste baie abritée longue de 64 km s'enfonçant dans les terres ioniennes, débouché maritime majeur de l'Asie Mineure."
+      }
+    },
+    {
+      "id": "ruines_ephese",
+      "fr": "RUINES D'ÉPHÈSE / AYASOULOUK",
+      "ota": {
+        "latn": "Efes / Ayasuluk",
+        "arab": "افس / اياثلوغ"
+      },
+      "modern": "Efes Antik Kenti / Selçuk (İzmir)",
+      "kind": "ruin",
+      "sandjak": "Smyrne",
+      "lat": 37.9411,
+      "lon": 27.3417,
+      "bbox": [
+        0.381,
+        0.443,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Efes Harabeleri (Artemis Tapınağı & Celsus Kütüphanesi)",
+        "en": "Ruins of Ephesus / Ayasoluk",
+        "fr": "Ruines d'Éphèse / Ayasoulouk"
+      },
+      "note": {
+        "tr": "Dünyanın Yedi Harikası'ndan Artemis Tapınağı, Celsus Kütüphanesi ve 25 bin kişilik antik tiyatroya sahip Roma Asya Eyaleti'nin metropolü.",
+        "en": "Fabled metropolis of Roman Asia, featuring the Temple of Artemis (Seven Wonders), Library of Celsus, and Basilica of Saint John.",
+        "fr": "Célèbre métropole gréco-romaine d'Ionie abritant le temple d'Artémis (Merveille du Monde), la bibliothèque de Celsus et l'amphithéâtre."
+      }
+    },
+    {
+      "id": "ruines_sardes",
+      "fr": "RUINES DE SARDES / SART",
+      "ota": {
+        "latn": "Sardes / Sart Kalesi",
+        "arab": "صارط"
+      },
+      "modern": "Sardes Antik Kenti / Sart (Salihli, Manisa)",
+      "kind": "ruin",
+      "sandjak": "Saroukhan",
+      "lat": 38.4883,
+      "lon": 28.0403,
+      "bbox": [
+        0.52,
+        0.285,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Sardes Harabeleri (Lidya Krallığı Başkenti)",
+        "en": "Ruins of Sardis / King Croesus Capital",
+        "fr": "Ruines de Sardes / Capitale de Lydie"
+      },
+      "note": {
+        "tr": "Tarihte ilk madeni paranın basıldığı Lidya Krallığı'nın altın kenti; Artemis Tapınağı ve devasa Roma sinagogu kalıntıları.",
+        "en": "Birthplace of minted coinage under King Croesus along the golden sands of the Pactolus; magnificent Artemis temple and Roman gymnasium.",
+        "fr": "Capitale du royaume de Lydie où fut frappée la première monnaie au monde sous Crésus, bordée par le Pactole aux sables aurifères."
+      }
+    },
+    {
+      "id": "ruines_tralleis",
+      "fr": "TRALLES / TRALLEIS",
+      "ota": {
+        "latn": "Tralleis / Üçgözler",
+        "arab": "طراليس"
+      },
+      "modern": "Tralleis Antik Kenti (Üçgözler, Aydın)",
+      "kind": "ruin",
+      "sandjak": "Aïdin",
+      "lat": 37.8639,
+      "lon": 27.8347,
+      "bbox": [
+        0.479,
+        0.465,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Tralleis (Üçgözler Gymnasiumu)",
+        "en": "Ruins of Tralles",
+        "fr": "Ruines de Tralles"
+      },
+      "note": {
+        "tr": "Aydın kentinin hemen kuzeyinde, Roma dönemi anıtsal 'Üçgözler' gymnasium kemerleriyle bilinen zengin Karya-İon kültür kenti.",
+        "en": "Ancient Carian crossroads city perched on a mesa above modern Aydin, marked by the monumental triple arches of its Roman gymnasium.",
+        "fr": "Cité antique dominant la ville moderne d'Aïdin, célèbre pour les arches monumentales de son gymnase romain dites 'Üçgözler'."
+      }
+    },
+    {
+      "id": "ruines_milet",
+      "fr": "RUINES DE MILET / PALATIA",
+      "ota": {
+        "latn": "Milet / Balat",
+        "arab": "ميليت / بالاط"
+      },
+      "modern": "Milet Antik Kenti (Didim / Balat, Aydın)",
+      "kind": "ruin",
+      "sandjak": "Aïdin",
+      "lat": 37.5311,
+      "lon": 27.2764,
+      "bbox": [
+        0.368,
+        0.56,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Milet (Felsefenin Doğduğu Kent: Thales, Anaksimandros)",
+        "en": "Ruins of Miletus / Cradle of Philosophy",
+        "fr": "Ruines de Milet / Berceau de la Philosophie"
+      },
+      "note": {
+        "tr": "Pozitif bilimlerin ve rasyonel felsefenin doğduğu Thales'in kenti; 15 bin kişilik dev tiyatrosu ve Faustina Hamamları ile tanınır.",
+        "en": "Cradle of western philosophy and science, home to Thales, Anaximander, and Hippodamus; grand 15,000-seat theater.",
+        "fr": "Berceau de la pensée rationnelle et de la philosophie ionienne avec Thalès, réputée pour son théâtre grandiose face au Méandre."
+      }
+    },
+    {
+      "id": "ruines_priene",
+      "fr": "RUINES DE PRIÈNE / SAMSOUN-KALÉ",
+      "ota": {
+        "latn": "Priene / Samsunkale",
+        "arab": "پريين"
+      },
+      "modern": "Priene Antik Kenti (Güllübahçe, Söke, Aydın)",
+      "kind": "ruin",
+      "sandjak": "Aïdin",
+      "lat": 37.6594,
+      "lon": 27.2975,
+      "bbox": [
+        0.372,
+        0.523,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Priene (Izgara Şehir Planı / Athena Polias Tapınağı)",
+        "en": "Ruins of Priene / Hippodamian City",
+        "fr": "Ruines de Priène"
+      },
+      "note": {
+        "tr": "Dilek Dağı'nın sarp yamacında, Büyük İskender'in adak yazıtını taşıyan Athena Tapınağı ve kusursuz ızgara planıyla ünlü İon kenti.",
+        "en": "Classical Hellenistic city built on steep terraces below Mount Mycale, featuring the Temple of Athena dedicated by Alexander the Great.",
+        "fr": "Chef-d'œuvre de l'urbanisme hippodamien étagé sur les contreforts du mont Mycale sous le temple d'Athéna Polias."
+      }
+    },
+    {
+      "id": "ruines_hierapolis",
+      "fr": "HIÉRAPOLIS / PAMOUK-KALÉSI",
+      "ota": {
+        "latn": "Hierapolis / Pamukkale",
+        "arab": "هيراپوليس / پاموق قلعه"
+      },
+      "modern": "Hierapolis Antik Kenti / Pamukkale Travertenleri (Denizli)",
+      "kind": "ruin",
+      "sandjak": "Denisli",
+      "lat": 37.9256,
+      "lon": 29.1242,
+      "bbox": [
+        0.736,
+        0.447,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Hierapolis (Kutsal Şehir) / Pamukkale",
+        "en": "Hierapolis / Cotton Castle (Pamukkale)",
+        "fr": "Hiérapolis / Château de Coton"
+      },
+      "note": {
+        "tr": "Kalsiyum karbonatlı beyaz traverten basamakları üzerinde kurulu antik şifa ve termal merkezi; Havari Philippus'un şehitliği ve antik tiyatro.",
+        "en": "Ancient thermal spa founded on snow-white limestone travertines, site of the Martyrium of the Apostle Philip.",
+        "fr": "Station thermale antique spectaculaire dominant les terrasses blanches de travertin, sanctuaire du martyre de l'apôtre Philippe."
+      }
+    },
+    {
+      "id": "ruines_cnide",
+      "fr": "RUINES DE CNIDE / CAP CRIO",
+      "ota": {
+        "latn": "Knidos / Tekir Burnu",
+        "arab": "قنيدوس"
+      },
+      "modern": "Knidos Antik Kenti (Tekir Burnu, Datça, Muğla)",
+      "kind": "ruin",
+      "sandjak": "Mentéché",
+      "lat": 36.6858,
+      "lon": 27.375,
+      "bbox": [
+        0.388,
+        0.803,
+        0.041,
+        0.023
+      ],
+      "lit": {
+        "tr": "Knidos (Praksiteles'in Çıplak Afrodit Heykeli)",
+        "en": "Ruins of Cnidus / Cape Crio",
+        "fr": "Ruines de Cnide / Cap Crio"
+      },
+      "note": {
+        "tr": "Datça Yarımadası'nın Ege ve Akdeniz'i ayıran en uç noktasında, heykeltıraş Praksiteles'in meşhur Afrodit heykeli ve iki limanıyla bilinen Karya kenti.",
+        "en": "Famous maritime city at the tip of the Datça peninsula separating the Aegean and Mediterranean, home to Praxiteles' Aphrodite.",
+        "fr": "Cité dorienne à la proue de la péninsule de Cnide, réunissant la mer Égée et la Méditerranée, célèbre pour son Aphrodite de Praxitèle."
+      }
+    }
+  ]
+}

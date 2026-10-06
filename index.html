@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>İzmir Vilayeti 1894 (Vital Cuinet - Dijital harita: Sabri Karadoğan)</title>
+  <meta name="description" content="Vital Cuinet'nin 1894 tarihli İzmir (Aydın) Vilayeti haritası (Dijital harita: Sabri Karadoğan), modern dünya altlıkları üzerine bindirilmiş Leaflet.js georeferanslı harita ve 3 dilli toponimi.">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="lib/leaflet.css">
+  
+  <!-- Custom App CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏛️</text></svg>">
+</head>
+<body>
+  <div id="app-container">
+    <!-- Header -->
+    <header id="app-header">
+      <div class="header-left">
+        <button id="btn-mobile-sidebar" class="mobile-toggle" aria-label="Menüyü Aç">☰</button>
+        <div class="header-title-box">
+          <h1 id="app-title">İzmir Vilayeti 1894 (Vital Cuinet - Dijital harita: Sabri Karadoğan)</h1>
+          <p id="app-subtitle">İzmir, Manisa, Aydın, Denizli ve Menteşe (Muğla) Sancakları · Leaflet Coğrafi Bindirme</p>
+        </div>
+      </div>
+      <div class="header-right">
+        <!-- Language Switcher -->
+        <div class="lang-selector">
+          <button class="lang-btn active" data-lang="tr">TR</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="fr">FR</button>
+        </div>
+        <!-- About Button -->
+        <button id="btn-about" class="btn-icon">
+          <span>ℹ</span> <span class="hide-mobile">Hakkında</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Workspace -->
+    <main id="app-main">
+      <!-- Search & Filters Sidebar -->
+      <aside id="app-sidebar">
+        <!-- Search input box -->
+        <div class="sidebar-search-box">
+          <div class="search-input-wrapper">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="search-input" placeholder="Yer adı ara..." autocomplete="off">
+            <button id="btn-clear-search" class="btn-clear" title="Temizle">&times;</button>
+          </div>
+          <!-- Sandjak filter dropdown -->
+          <div class="sandjak-filter-wrapper">
+            <select id="sandjak-select" class="filter-select">
+              <option value="all">Tüm Sancaklar</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Kind filter pills -->
+        <div class="sidebar-kind-filter">
+          <div class="kind-pills-scroll" id="kind-pills"></div>
+        </div>
+
+        <!-- Results count bar -->
+        <div class="sidebar-results-header">
+          <span id="results-count">Yükleniyor...</span>
+        </div>
+
+        <!-- Places List -->
+        <div class="sidebar-list-container" id="places-list">
+          <div class="empty-results">Konumlar yükleniyor...</div>
+        </div>
+      </aside>
+
+      <!-- Map Viewport -->
+      <section id="map-viewport-wrapper">
+        <div id="leaflet-view"></div>
+
+        <!-- Floating Opacity & Historical Controls Widget -->
+        <div id="floating-map-controls">
+          <div class="opacity-control-header">
+            <div class="opacity-title-group">
+              <button id="btn-toggle-historical" class="opacity-btn-toggle" title="1894 Haritasını Göster/Gizle">👁️</button>
+              <span id="opacity-label">1894 Saydamlığı:</span>
+            </div>
+            <span id="opacity-value" class="opacity-badge">85%</span>
+          </div>
+
+          <div class="opacity-slider-row">
+            <input type="range" id="opacity-slider" class="opacity-slider" min="0" max="100" value="85" step="1" title="Saydamlığı Ayarla">
+          </div>
+
+          <div class="opacity-presets-row">
+            <button class="opacity-preset-btn" data-val="0" title="Sadece Modern Harita / Uydu">0% (Modern)</button>
+            <button class="opacity-preset-btn" data-val="50" title="Yarı Saydam Karşılaştırma">50%</button>
+            <button class="opacity-preset-btn" data-val="85" title="Varsayılan Bindirme">85%</button>
+            <button class="opacity-preset-btn" data-val="100" title="Sadece 1894 Cuinet">100%</button>
+          </div>
+
+          <button id="btn-fit-bounds" class="btn-fit-bounds" title="Tüm Tarihi Haritayı Ekrana Sığdır">
+            <span>🗺️</span> <span>Haritaya Odaklan</span>
+          </button>
+        </div>
+
+        <!-- Active Location Detail Card -->
+        <div id="detail-card"></div>
+      </section>
+    </main>
+  </div>
+
+  <!-- About Modal Dialog -->
+  <div id="about-modal" class="modal-backdrop">
+    <div class="modal-dialog">
+      <div id="btn-close-about" class="modal-close">&times;</div>
+      <div class="modal-header">
+        <h2 id="about-title">Hakkında</h2>
+      </div>
+      <div class="modal-body" id="about-body"></div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="lib/leaflet.js"></script>
+  <script src="data/labels.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
